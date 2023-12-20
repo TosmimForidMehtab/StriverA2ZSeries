@@ -38,8 +38,6 @@ int missingNumber3(vector<int>& nums) {
 
 	return (xor1 ^ xor2);
 }
-
-//TODO: GFG version not done
 int32_t main() {
 	fast
 
